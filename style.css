@@ -14,11 +14,11 @@
     background-color: rgba(0, 0, 0, 0.482);
 }
 
+
 @media only screen and (max-width:700px){
 
     .fs-detail-div {
-        width: 400px !important;
-        margin: right 30px !important; 
+        width: 300px !important;
     }
     .button-div{
         gap: 10px;
